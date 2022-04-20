@@ -1,4 +1,4 @@
-# Password Door Lock
+# Pir Sensor
 [![License](https://poser.pugx.org/bagisto/bagisto-gdpr/license)](https://github.com/arsivpro/pir-sensor/blob/master/LICENSE)
 
 ## 1. Introduction:
